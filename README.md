@@ -7,6 +7,7 @@ Each entry is a link to a repository that serves as an educational project for t
 
 ## JavaScript
   - [typescript-learning](https://github.com/peabnuts123/typescript-learning)
+  - [svelte-learning](https://github.com/peabnuts123/svelte-learning)
 
 If you would like to contribute or have any issues please feel free to either open an [issue](https://github.com/peabnuts123/typescript-learning/issues) or drop me a [tweet](https://twitter.com/peabnuts123).
 
